@@ -1,18 +1,24 @@
 [submodule "API_GATEWAY_SERVICE_MSA"]
 	path = API_GATEWAY_SERVICE_MSA
 	url = https://github.com/TEAM-FLOWBIT/API_GATEWAY_SERVICE_MSA
+	branch = develop
 [submodule "DISCOVERY_SERVICE_MSA"]
 	path = DISCOVERY_SERVICE_MSA
 	url = https://github.com/TEAM-FLOWBIT/DISCOVERY_SERVICE_MSA
+	branch = develop
 [submodule "USER_SERVICE_MSA"]
 	path = USER_SERVICE_MSA
 	url = https://github.com/TEAM-FLOWBIT/USER_SERVICE_MSA
+	branch = develop
 [submodule "BITCOIN_SERVER_MSA"]
 	path = BITCOIN_SERVER_MSA
 	url = https://github.com/TEAM-FLOWBIT/BITCOIN_SERVER_MSA
+	branch = develop
 [submodule "BOARD_SERVICE_MSA"]
 	path = BOARD_SERVICE_MSA
 	url = https://github.com/TEAM-FLOWBIT/BOARD_SERVICE_MSA
+	branch = develop
 [submodule "CONFIG_SERVER_MSA"]
 	path = CONFIG_SERVER_MSA
 	url = https://github.com/TEAM-FLOWBIT/CONFIG_SERVER_MSA
+	branch = develop
