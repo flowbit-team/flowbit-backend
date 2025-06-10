@@ -14,6 +14,10 @@
 ### 비트코인 최신 뉴스
 <img width="1210" alt="image" src="https://github.com/user-attachments/assets/9fc3edcc-a04e-47c1-a939-955c2edf10e2" />
 
+### 이메일 구독서비스 Batch
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/d01c2853-de46-4370-99b4-0b013a0fec66" />
+
+
 ### 커뮤니티
 <img width="1166" alt="image" src="https://github.com/user-attachments/assets/a53be788-d2a9-4aa1-8a73-0bec7a313e1d" />
 
