@@ -22,3 +22,6 @@
 	path = CONFIG_SERVER_MSA
 	url = https://github.com/TEAM-FLOWBIT/CONFIG_SERVER_MSA
 	branch = develop
+[submodule "BATCH_MSA"]
+	path = BATCH_MSA
+	url = https://github.com/flowbit-team/BATCH_MSA.git
